@@ -1,8 +1,4 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-streamlit
-tensorflow
-statsmodels
-xgboost
+streamlit==1.32.0
+requests==2.31.0
+folium==0.15.1
+streamlit-folium==0.18.0
